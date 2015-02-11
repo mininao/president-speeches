@@ -1,0 +1,24 @@
+{
+  "name": "president-speeches",
+  "version": "0.1.0",
+  "description": "Scrapes french presidential speeches for stats & fun",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mininao/president-speeches.git"
+  },
+  "author": "Maxence Aïci",
+  "license": "GNU GPL v2",
+  "bugs": {
+    "url": "https://github.com/mininao/president-speeches/issues"
+  },
+  "homepage": "https://github.com/mininao/president-speeches",
+  "dependencies": {
+    "crawler": "^0.4.1",
+    "jsonfile": "^2.0.0",
+    "lodash": "^3.1.0"
+  }
+}
